@@ -13,7 +13,7 @@ The first test board welded by hand and it works great:
 ## Features
 
 - Pin to pin with D1 mini development kits
-- Double-sided PCB layout and the board thickness is 0.8mm
+- Double-sided PCB layout, the board thickness is 0.8mm, size is 36.0mm x25.6mm
 - All components are on one side
 - Discrete components are packaged in 0603, which is easy to solder by hand
 - There are four M2 holes around the PCB that are easy to fix
