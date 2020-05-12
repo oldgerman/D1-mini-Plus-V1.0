@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-05-12T11:12:14Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.97,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "D1_mini_Plus"
+        },
+        "Owner": "Shiao Peng <2920956602@qq.com>",
+        "Size": {
+            "X": 35.8775,
+            "Y": 25.7175
+        }
+    }
+}
