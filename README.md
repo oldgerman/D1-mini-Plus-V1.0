@@ -23,7 +23,7 @@ The first test board welded by hand and it works great:
 
 ## Pin Map (Back View)
 
-There is no cartoon logo on the back of the shared PCB file :)
+There is no cartoon logo on the back of the shared PCB file XD
 
 ![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1Back.jpg)
 
