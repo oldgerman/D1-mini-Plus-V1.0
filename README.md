@@ -66,11 +66,11 @@ There is no cartoon logo on the back of the shared PCB file :)
 
 First, download and unzip the AN721: [Download link](https://www.silabs.com/documents/public/example-code/AN721SW.zip), for windows, click in this document
 
-![20200512202832](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AN721.png)
+![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AN721.png)
 
 Second, run the CP21xxCustomizationUtility.exe
 
-![20200512203242](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AN721_0.png)
+![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AN721_0.png)
 
 Third, according to the page 28 from  [AN721: USBXpress™ Device Configuration and Programming Guide](https://www.silabs.com/documents/public/application-notes/AN721.pdf), we set the latch for ticking the GPIO0 and GPIO1;
 
