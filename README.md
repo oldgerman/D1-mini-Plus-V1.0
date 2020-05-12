@@ -4,7 +4,7 @@ A development kit Improved from [D1 mini Pro V1.0.0](https://docs.wemos.cc/en/la
 
 The first test board welded by hand and it works great:
 
-![D1miniPlusV1](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.jpg)
+![D1miniPlusV1](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.png)
 
 ## Add connector & bolts for fixing
 
