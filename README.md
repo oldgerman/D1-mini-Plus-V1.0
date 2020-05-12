@@ -83,7 +83,7 @@ Second, run the CP21xxCustomizationUtility.exe
 
 Third, according to the page 28 from  [AN721: USBXpress™ Device Configuration and Programming Guide](https://www.silabs.com/documents/public/application-notes/AN721.pdf), we set the latch for ticking the GPIO0 and GPIO1;
 
-Click Program Device Buttom and wait a minute,the change will be saved in CP2104:
+Click "Program Device" button and wait a minute,the change will be saved in CP2104:
 
 <table>
     <tr>
