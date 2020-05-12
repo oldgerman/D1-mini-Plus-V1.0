@@ -2,22 +2,17 @@
 
 A development kit Improved from [D1 mini Pro V1.0.0](https://docs.wemos.cc/en/latest/d1/d1_mini_pro.html)
 
-The first test board welded by hand and it works great:
-
-![D1miniPlusV1](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.png)
+The first test board welded by hand and it works great!
 
 ## Add connector & bolts for fixing
 
 <table>
     <tr>
+    	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.png"></td>
         <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AddConnector-1.png"></td>
-		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AddConnector-2.png"</td>
+	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AddConnector-2.png"</td>
     </tr>
 </table>
-
-## Layout
-
-![pcbView](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/pcbView.jpg)
 
 ## Features
 
