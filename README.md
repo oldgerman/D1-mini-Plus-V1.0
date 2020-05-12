@@ -8,7 +8,7 @@ The first test board welded by hand and it works great!
 
 <table>
     <tr>
-    	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.png"></td>
+    	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1.jpg"></td>
         <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AddConnector-1.png"></td>
 	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/AddConnector-2.png"</td>
     </tr>
