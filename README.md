@@ -66,6 +66,36 @@ There is no cartoon logo on the back of the shared PCB file XD
 | 1    | USBLC6-2 | USBLC6-2SOT23-6           | SOT23-6            | U$11                  | low capacitance ESD protection                               |
 | 1    | W25Q32FV | W25Q32FVSS                | SOIC-8             | U2                    | W25Q32FV 32Mb (4MB) Serial Flash Memory                      |
 
+## SPI test: ST7789V Graphicstest
+
+Testing in SPI FREQUENCY  40000000
+
+![TFT_espiTest](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif)
+
+[For more, please see...](https://github.com/Bodmer/TFT_eSPI)
+
+## I2C test: read MPU6050 DMP Euler angles in degrees
+
+<table>
+    <tr>
+        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-1.jpg"></td>
+		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-2.jpg"</td>
+    </tr>
+</table>
+
+[For more, please see...](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050)
+
+## ADC0 test: basic NTC thermistor measurement circuit
+
+<table>
+    <tr>
+        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-1.jpg"></td>
+		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-2.png"</td>
+    </tr>
+</table>
+
+[For more, please see...](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
+
 ## CP2104 TX & RX LEDs - How to get them working?
 
 First, download and unzip the AN721: [Download link](https://www.silabs.com/documents/public/example-code/AN721SW.zip), for windows, click in this document
@@ -95,33 +125,3 @@ Finally, whether you upload a program or use a serial port, the led of CP2104 wi
 		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/SerialBlink.png"</td>
     </tr>
 </table>
-
-## SPI test: ST7789V Graphicstest
-
-Testing in SPI FREQUENCY  40000000
-
-![TFT_espiTest](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif)
-
-[For more, please see...](https://github.com/Bodmer/TFT_eSPI)
-
-## I2C test: MPU6050 DMP read Euler angles in degrees
-
-<table>
-    <tr>
-        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-1.jpg"></td>
-		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-2.jpg"</td>
-    </tr>
-</table>
-
-[For more, please see...](https://github.com/jrowberg/i2cdevlib)
-
-## ADC0 test: basic ntc thermistor measurement circuit
-
-<table>
-    <tr>
-        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-1.jpg"></td>
-		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-2.png"</td>
-    </tr>
-</table>
-
-[For more, please see...](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
