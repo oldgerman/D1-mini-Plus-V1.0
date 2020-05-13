@@ -102,6 +102,15 @@ Testing in SPI FREQUENCY  40000000
 
 ![TFT_espiTest](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif)
 
-[For more, please see](https://github.com/Bodmer/TFT_eSPI)
+[For more, please see...](https://github.com/Bodmer/TFT_eSPI)
 
+## ADC0 test: basic ntc thermistor measurement circuit
 
+<table>
+    <tr>
+        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-1.jpg"></td>
+		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/NTC100k_Demo-2.png"</td>
+    </tr>
+</table>
+
+[For more, please see...](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
