@@ -96,3 +96,15 @@ Finally, whether you upload a program or use a serial port, the led of CP2104 wi
     </tr>
 </table>
 
+## ST7789V Graphicstest
+
+<table>
+    <tr>
+        <td width = "50%"><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.png"></td>
+	<td width = "50%"><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif"></td>
+    </tr>
+</table>
+
+[For more, please see](https://github.com/Bodmer/TFT_eSPI)
+
+
