@@ -96,13 +96,24 @@ Finally, whether you upload a program or use a serial port, the led of CP2104 wi
     </tr>
 </table>
 
-## ST7789V Graphicstest
+## SPI test: ST7789V Graphicstest
 
 Testing in SPI FREQUENCY  40000000
 
 ![TFT_espiTest](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif)
 
 [For more, please see...](https://github.com/Bodmer/TFT_eSPI)
+
+## I2C test: MPU6050 DMP read Euler angles in degrees
+
+<table>
+    <tr>
+        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-1.jpg"></td>
+		<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/MPU6050_I2C_Test-2.jpg"</td>
+    </tr>
+</table>
+
+[For more, please see...](https://github.com/jrowberg/i2cdevlib)
 
 ## ADC0 test: basic ntc thermistor measurement circuit
 
