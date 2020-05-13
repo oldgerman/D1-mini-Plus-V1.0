@@ -99,14 +99,7 @@ Finally, whether you upload a program or use a serial port, the led of CP2104 wi
 ## ST7789V Graphicstest
 
 Testing in SPI FREQUENCY  40000000
-
-<table>
-    <tr>
-        <td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.jpg"></td>
-	<td><img src = "https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif"></td>
-    </tr>
-</table>
-
+![TFT_espiTest](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/TFT_espiTest.gif)
 [For more, please see](https://github.com/Bodmer/TFT_eSPI)
 
 
