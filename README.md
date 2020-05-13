@@ -96,6 +96,12 @@ Testing in SPI FREQUENCY  40000000
 
 [For more, please see...](https://www.circuitbasics.com/arduino-thermistor-temperature-sensor-tutorial/)
 
+## Wifi scan test
+
+![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/WifiScan.jpg)
+
+[For more, please see...](https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/WiFiScan/WiFiScan.ino)
+
 ## CP2104 TX & RX LEDs - How to get them working?
 
 First, download and unzip the AN721: [Download link](https://www.silabs.com/documents/public/example-code/AN721SW.zip), for windows, click in this document
