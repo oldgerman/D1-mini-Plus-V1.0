@@ -1,4 +1,6 @@
-# D1 mini Plus V1.0（The picture is the 2nd circuit board）
+# D1 mini Plus V1.0
+
+## Top View（The picture is the 2nd circuit board）
 
 A development kit Improved from [D1 mini Pro V1.0.0](https://docs.wemos.cc/en/latest/d1/d1_mini_pro.html)
 ![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1-2rd.jpg)
