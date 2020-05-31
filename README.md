@@ -1,10 +1,10 @@
-# D1 mini Plus V1.0
+# D1 mini Plus V1.0（The picture is the 2nd circuit board）
 
 A development kit Improved from [D1 mini Pro V1.0.0](https://docs.wemos.cc/en/latest/d1/d1_mini_pro.html)
-![The 2nd Kit](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1-2rd.jpg)
+![](https://github.com/oldgerman/D1-mini-Plus-V1.0/blob/master/images/D1miniPlusV1-2rd.jpg)
 
 *Notice：The two pins(pin5 and pin6) of cp2104 are welded together, which is a PCB design problem. The shared PCB file has been modified.
-## Add connector & bolts for fixing（The 1st Kit）
+## Add connector & bolts for fixing（All pictures below are the 1st circuit board）
 
 <table>
     <tr>
